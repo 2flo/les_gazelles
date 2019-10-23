@@ -6,6 +6,14 @@
     <language>fr</language>
      <atom:link href="https://www.prestashop.com/fr/blog/feed.xml" rel="self" type="application/rss+xml" />
       <item>
+    <title>Le meilleur statut juridique pour lancer un site de e-commerce</title>
+    <link>https://www.prestashop.com/fr/blog/meilleur-statut-juridique-e-commerce</link>
+    <description>Vous avez un projet de boutique en ligne avec PrestaShop ? </description>
+     <pubDate>Wed, 23 Oct 2019 12:24:27 +0200</pubDate>
+ <dc:creator>guillaumerobez</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/fr/blog/meilleur-statut-juridique-e-commerce</guid>
+  </item>
+  <item>
     <title>Construire une histoire de marque forte avec le storytelling</title>
     <link>https://www.prestashop.com/fr/blog/construire-histoire-marque-forte-storytelling</link>
     <description>Chaque marque a une histoire à raconter, à partager avec ses clients.</description>
@@ -76,14 +84,6 @@
      <pubDate>Fri, 04 Oct 2019 16:45:11 +0200</pubDate>
  <dc:creator>YATEO</dc:creator>
  <guid isPermaLink="false">https://www.prestashop.com/fr/blog/erreurs-des-debutants-ecommerce</guid>
-  </item>
-  <item>
-    <title>Quelles sont les différences entre une migration, une mise à jour et une mise à niveau ?</title>
-    <link>https://www.prestashop.com/fr/blog/differences-migration-mise-a-jour-mise-a-niveau</link>
-    <description>Lorsque vous gérez un logiciel aussi complet que PrestaShop, connaître les différences entre les concepts de migration, de mise à jour et de mise à niveau est fondamental.</description>
-     <pubDate>Wed, 02 Oct 2019 10:26:03 +0200</pubDate>
- <dc:creator>Méguy Solvet</dc:creator>
- <guid isPermaLink="false">https://www.prestashop.com/fr/blog/differences-migration-mise-a-jour-mise-a-niveau</guid>
   </item>
   </channel>
 </rss>
