@@ -69,7 +69,8 @@ function tinySetup(config) {
     init_instance_callback: "changeToMaterial",
     rel_list:[
       { title: 'nofollow', value: 'nofollow' }
-    ]
+    ],
+    allow_script_urls: true,
   };
 
   $.each(default_config, function (index, el) {

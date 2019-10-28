@@ -6,6 +6,14 @@
     <language>fr</language>
      <atom:link href="https://www.prestashop.com/fr/blog/feed.xml" rel="self" type="application/rss+xml" />
       <item>
+    <title>Redonner du sens à sa stratégie de contenu avec le “slow content”</title>
+    <link>https://www.prestashop.com/fr/blog/strategie-contenu-slow-content</link>
+    <description>Mettre en oeuvre une stratégie de contenu efficace sur la toile est un défi de taille mais pourtant indispensable.</description>
+     <pubDate>Thu, 24 Oct 2019 17:14:49 +0200</pubDate>
+ <dc:creator>YATEO</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/fr/blog/strategie-contenu-slow-content</guid>
+  </item>
+  <item>
     <title>Le meilleur statut juridique pour lancer un site de e-commerce</title>
     <link>https://www.prestashop.com/fr/blog/meilleur-statut-juridique-e-commerce</link>
     <description>Vous avez un projet de boutique en ligne avec PrestaShop ? </description>
@@ -76,14 +84,6 @@
      <pubDate>Mon, 07 Oct 2019 15:14:37 +0200</pubDate>
  <dc:creator>Anonymous</dc:creator>
  <guid isPermaLink="false">https://www.prestashop.com/fr/blog/calendrier-e-commerce-ann%C3%A9e-2019</guid>
-  </item>
-  <item>
-    <title>Les erreurs classiques commises par les e-commerçants débutants</title>
-    <link>https://www.prestashop.com/fr/blog/erreurs-des-debutants-ecommerce</link>
-    <description>Monter un projet e-commerce est, certes, un challenge de taille mais se révèle être également une aventure particulièrem</description>
-     <pubDate>Fri, 04 Oct 2019 16:45:11 +0200</pubDate>
- <dc:creator>YATEO</dc:creator>
- <guid isPermaLink="false">https://www.prestashop.com/fr/blog/erreurs-des-debutants-ecommerce</guid>
   </item>
   </channel>
 </rss>
