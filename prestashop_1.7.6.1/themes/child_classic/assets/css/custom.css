@@ -2,10 +2,6 @@
  * Custom code goes here.
  * A template should always ship with an empty custom.css
  */
- #header{ background: black !important; }
- .container{
-     background-color: green;
- }
 
  .container_presentation{
      display: flex;
@@ -34,5 +30,22 @@
 
  p{
      text-align: justify;
+     color: black;
+ }
+
+ .container{
+     display: flex;
+ }
+
+ .row{
+     flex-direction: column;
+ }
+
+ #_desktop_logo{
+     margin-left: 500px;
+ }
+
+ #_desktop_top-menu{
+     margin-bottom: 15px;
      color: black;
  }
