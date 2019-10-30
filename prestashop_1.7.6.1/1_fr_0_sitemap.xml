@@ -49,6 +49,12 @@
 <priority>0.1</priority>
 </url>
 <url>
+<loc><![CDATA[http://localhost/les_gazelles/prestashop_1.7.6.1/sitemap]]></loc>
+
+<changefreq>weekly</changefreq>
+<priority>0.1</priority>
+</url>
+<url>
 <loc><![CDATA[http://localhost/les_gazelles/prestashop_1.7.6.1/fournisseur]]></loc>
 
 <changefreq>weekly</changefreq>
