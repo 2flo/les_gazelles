@@ -6,6 +6,14 @@
     <language>fr</language>
      <atom:link href="https://www.prestashop.com/fr/blog/feed.xml" rel="self" type="application/rss+xml" />
       <item>
+    <title>E-commerce : la liste des dix erreurs à éviter</title>
+    <link>https://www.prestashop.com/fr/blog/e-commerce-pain-points-a-eviter</link>
+    <description>Pour convertir un client et le fidéliser, votre site doit proposer un parcours sans faute.</description>
+     <pubDate>Wed, 30 Oct 2019 12:07:20 +0100</pubDate>
+ <dc:creator>L&#039;équipe PrestaShop</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/fr/blog/e-commerce-pain-points-a-eviter</guid>
+  </item>
+  <item>
     <title>Redonner du sens à sa stratégie de contenu avec le “slow content”</title>
     <link>https://www.prestashop.com/fr/blog/strategie-contenu-slow-content</link>
     <description>Mettre en oeuvre une stratégie de contenu efficace sur la toile est un défi de taille mais pourtant indispensable.</description>
@@ -76,14 +84,6 @@
      <pubDate>Mon, 07 Oct 2019 16:46:54 +0200</pubDate>
  <dc:creator>L&#039;agence123</dc:creator>
  <guid isPermaLink="false">https://www.prestashop.com/fr/blog/5-conseils-pour-am%C3%A9liorer-SAV-e-commerce</guid>
-  </item>
-  <item>
-    <title>Édition spéciale fin d’année : calendrier e-commerce 2019</title>
-    <link>https://www.prestashop.com/fr/blog/calendrier-e-commerce-ann%C3%A9e-2019</link>
-    <description>Les 4 derniers mois de l’année sont très importants, et rythmés par des temps forts incontournables.</description>
-     <pubDate>Mon, 07 Oct 2019 15:14:37 +0200</pubDate>
- <dc:creator>Anonymous</dc:creator>
- <guid isPermaLink="false">https://www.prestashop.com/fr/blog/calendrier-e-commerce-ann%C3%A9e-2019</guid>
   </item>
   </channel>
 </rss>
