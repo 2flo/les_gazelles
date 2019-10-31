@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.33, created on 2019-10-30 17:38:51
+/* Smarty version 3.1.33, created on 2019-10-31 16:11:17
   from '/home/popschool/projects/www/les_gazelles/prestashop_1.7.6.1/modules/ps_mbo/views/templates/admin/include/admin-end-content-footer.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.33',
-  'unifunc' => 'content_5db9bc9b5522d3_87157247',
+  'unifunc' => 'content_5dbaf995b8e704_63298908',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -21,7 +21,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
     'file:./tab_module_line.tpl' => 1,
   ),
 ),false)) {
-function content_5db9bc9b5522d3_87157247 (Smarty_Internal_Template $_smarty_tpl) {
+function content_5dbaf995b8e704_63298908 (Smarty_Internal_Template $_smarty_tpl) {
 $_smarty_tpl->_checkPlugins(array(0=>array('file'=>'/home/popschool/projects/www/les_gazelles/prestashop_1.7.6.1/vendor/smarty/smarty/libs/plugins/function.counter.php','function'=>'smarty_function_counter',),1=>array('file'=>'/home/popschool/projects/www/les_gazelles/prestashop_1.7.6.1/vendor/smarty/smarty/libs/plugins/function.cycle.php','function'=>'smarty_function_cycle',),));
 if (isset($_smarty_tpl->tpl_vars['from']->value) && $_smarty_tpl->tpl_vars['from']->value == 'footer') {?>
     <div class="row" <?php if (isset($_smarty_tpl->tpl_vars['panel_id']->value)) {?>id="<?php echo $_smarty_tpl->tpl_vars['panel_id']->value;?>

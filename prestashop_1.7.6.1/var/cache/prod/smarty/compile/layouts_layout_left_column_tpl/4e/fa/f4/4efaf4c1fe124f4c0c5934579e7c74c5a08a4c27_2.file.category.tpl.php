@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.33, created on 2019-10-30 17:29:21
+/* Smarty version 3.1.33, created on 2019-10-31 16:20:45
   from '/home/popschool/projects/www/les_gazelles/prestashop_1.7.6.1/themes/classic/templates/catalog/listing/category.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.33',
-  'unifunc' => 'content_5db9ba615beeb1_17137987',
+  'unifunc' => 'content_5dbafbcd7b1cd7_65334278',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -21,25 +21,25 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
     'file:catalog/_partials/category-header.tpl' => 1,
   ),
 ),false)) {
-function content_5db9ba615beeb1_17137987 (Smarty_Internal_Template $_smarty_tpl) {
+function content_5dbafbcd7b1cd7_65334278 (Smarty_Internal_Template $_smarty_tpl) {
 $_smarty_tpl->_loadInheritance();
 $_smarty_tpl->inheritance->init($_smarty_tpl, true);
 ?>
 
 
 <?php 
-$_smarty_tpl->inheritance->instanceBlock($_smarty_tpl, 'Block_7515947215db9ba615bd736_36110263', 'product_list_header');
+$_smarty_tpl->inheritance->instanceBlock($_smarty_tpl, 'Block_3998489375dbafbcd7b0722_38266019', 'product_list_header');
 ?>
 
 <?php $_smarty_tpl->inheritance->endChild($_smarty_tpl, 'catalog/listing/product-list.tpl');
 }
 /* {block 'product_list_header'} */
-class Block_7515947215db9ba615bd736_36110263 extends Smarty_Internal_Block
+class Block_3998489375dbafbcd7b0722_38266019 extends Smarty_Internal_Block
 {
 public $subBlocks = array (
   'product_list_header' => 
   array (
-    0 => 'Block_7515947215db9ba615bd736_36110263',
+    0 => 'Block_3998489375dbafbcd7b0722_38266019',
   ),
 );
 public function callBlock(Smarty_Internal_Template $_smarty_tpl) {

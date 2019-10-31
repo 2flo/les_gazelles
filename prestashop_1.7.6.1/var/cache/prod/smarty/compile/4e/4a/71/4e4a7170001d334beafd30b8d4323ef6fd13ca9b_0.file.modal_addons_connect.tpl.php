@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.33, created on 2019-10-29 16:07:27
+/* Smarty version 3.1.33, created on 2019-10-31 16:10:09
   from '/home/popschool/projects/www/les_gazelles/prestashop_1.7.6.1/modules/ps_mbo/views/templates/admin/include/modal_addons_connect.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.33',
-  'unifunc' => 'content_5db855af3227a0_03155667',
+  'unifunc' => 'content_5dbaf951955a12_31315802',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_5db855af3227a0_03155667 (Smarty_Internal_Template $_smarty_tpl) {
+function content_5dbaf951955a12_31315802 (Smarty_Internal_Template $_smarty_tpl) {
 ?> 
 <?php if ($_smarty_tpl->tpl_vars['addons_connect']->value['connected'] === false) {?>
 	<div id="module-modal-addons-connect" class="modal  modal-vcenter fade" role="dialog">

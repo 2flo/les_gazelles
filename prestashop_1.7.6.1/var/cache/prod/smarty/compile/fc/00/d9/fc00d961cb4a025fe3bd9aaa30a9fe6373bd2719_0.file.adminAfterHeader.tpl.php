@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.33, created on 2019-10-30 17:38:50
+/* Smarty version 3.1.33, created on 2019-10-31 16:11:15
   from '/home/popschool/projects/www/les_gazelles/prestashop_1.7.6.1/modules/ps_checkout/views/templates/hook/adminAfterHeader.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.33',
-  'unifunc' => 'content_5db9bc9a391e18_42676746',
+  'unifunc' => 'content_5dbaf993b7af93_18830695',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_5db9bc9a391e18_42676746 (Smarty_Internal_Template $_smarty_tpl) {
+function content_5dbaf993b7af93_18830695 (Smarty_Internal_Template $_smarty_tpl) {
 ?>
 <div class="container">
     <div class="row">

@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.33, created on 2019-10-29 16:06:50
+/* Smarty version 3.1.33, created on 2019-10-31 16:09:02
   from 'module:psmainmenupsmainmenu.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.33',
-  'unifunc' => 'content_5db8558acb98b6_07196621',
+  'unifunc' => 'content_5dbaf90e2fa753_55316934',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -20,13 +20,13 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_5db8558acb98b6_07196621 (Smarty_Internal_Template $_smarty_tpl) {
+function content_5dbaf90e2fa753_55316934 (Smarty_Internal_Template $_smarty_tpl) {
 $_smarty_tpl->smarty->ext->_tplFunction->registerTplFunctions($_smarty_tpl, array (
   'menu' => 
   array (
     'compiled_filepath' => '/home/popschool/projects/www/les_gazelles/prestashop_1.7.6.1/var/cache/prod/smarty/compile/41/df/19/41df1985130dffd7d3fe4cb369091546a0b40be7_2.module.psmainmenupsmainmenu.tpl.php',
     'uid' => '41df1985130dffd7d3fe4cb369091546a0b40be7',
-    'call_name' => 'smarty_template_function_menu_16641637215db8558acab074_38662021',
+    'call_name' => 'smarty_template_function_menu_6045161475dbaf90e2bc659_05947315',
   ),
 ));
 $_smarty_tpl->_assignInScope('_counter', 0);?>
@@ -38,9 +38,9 @@ $_smarty_tpl->_assignInScope('_counter', 0);?>
     <div class="clearfix"></div>
 </div>
 <?php }
-/* smarty_template_function_menu_16641637215db8558acab074_38662021 */
-if (!function_exists('smarty_template_function_menu_16641637215db8558acab074_38662021')) {
-function smarty_template_function_menu_16641637215db8558acab074_38662021(Smarty_Internal_Template $_smarty_tpl,$params) {
+/* smarty_template_function_menu_6045161475dbaf90e2bc659_05947315 */
+if (!function_exists('smarty_template_function_menu_6045161475dbaf90e2bc659_05947315')) {
+function smarty_template_function_menu_6045161475dbaf90e2bc659_05947315(Smarty_Internal_Template $_smarty_tpl,$params) {
 $params = array_merge(array('nodes'=>array(),'depth'=>0,'parent'=>null), $params);
 foreach ($params as $key => $value) {
 $_smarty_tpl->tpl_vars[$key] = new Smarty_Variable($value, $_smarty_tpl->isRenderingCache);
@@ -95,5 +95,5 @@ $_smarty_tpl->smarty->ext->_foreach->restore($_smarty_tpl, 1);?>
       </ul>
     <?php }
 }}
-/*/ smarty_template_function_menu_16641637215db8558acab074_38662021 */
+/*/ smarty_template_function_menu_6045161475dbaf90e2bc659_05947315 */
 }

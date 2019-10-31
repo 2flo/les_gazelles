@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.33, created on 2019-10-30 17:38:51
+/* Smarty version 3.1.33, created on 2019-10-31 16:11:17
   from '/home/popschool/projects/www/les_gazelles/prestashop_1.7.6.1/modules/ps_mbo/views/templates/admin/include/tab_module_line.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.33',
-  'unifunc' => 'content_5db9bc9b57d880_25209914',
+  'unifunc' => 'content_5dbaf995bbb799_81491653',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_5db9bc9b57d880_25209914 (Smarty_Internal_Template $_smarty_tpl) {
+function content_5dbaf995bbb799_81491653 (Smarty_Internal_Template $_smarty_tpl) {
 $_smarty_tpl->_checkPlugins(array(0=>array('file'=>'/home/popschool/projects/www/les_gazelles/prestashop_1.7.6.1/vendor/smarty/smarty/libs/plugins/modifier.replace.php','function'=>'smarty_modifier_replace',),));
 ?>
 <div class="row module-item-wrapper-list border-bottom mb-sm-3">

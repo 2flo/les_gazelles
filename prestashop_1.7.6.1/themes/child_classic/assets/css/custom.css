@@ -36,6 +36,7 @@
 
  .container{
      display: flex;
+     flex-wrap: wrap;
  }
 
  .header-nav{
@@ -56,4 +57,13 @@
  .footer-container{
      flex-wrap: wrap;
      width: 110%;
+ }
+
+ .breadcrumb{
+     width: 60%;
+     height: 50px;
+ }
+
+ #content-wraper{
+     width: 100%;
  }
