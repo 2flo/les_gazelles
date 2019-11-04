@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.33, created on 2019-10-31 16:05:00
+/* Smarty version 3.1.33, created on 2019-11-04 15:19:49
   from '/home/popschool/projects/www/les_gazelles/prestashop_1.7.6.1/modules/welcome/views/contents/end.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.33',
-  'unifunc' => 'content_5dbaf81c1cef53_15163176',
+  'unifunc' => 'content_5dc03385995142_17227596',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_5dbaf81c1cef53_15163176 (Smarty_Internal_Template $_smarty_tpl) {
+function content_5dc03385995142_17227596 (Smarty_Internal_Template $_smarty_tpl) {
 ?>
 <div id="onboarding-welcome" class="modal-body">
     <div class="col-12">
