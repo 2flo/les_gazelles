@@ -11,13 +11,13 @@
  }
  
   .box{
-      width: 250px;
+      width: 255px;
       margin: 30px;
   }
 
  .page-subheading{
      padding: 5px;
-     margin: 5px;
+     margin: 15px;
      text-align: center;
      font-size: 1em;
      color: rgba(43, 32, 32, 0.945);
@@ -57,7 +57,7 @@
 
  .footer-container{
      flex-wrap: wrap;
-     width: 110%;
+     width: 100%;
  }
 
  .breadcrumb{
@@ -66,4 +66,24 @@
  }
  #content-wrapper{
      width: 100%;
+ }
+
+ @media screen and (max-width: 399px){
+
+    .header-top{
+        margin-left: 45px;
+    }
+
+    .page-subheading{
+        width: 100%;
+    }
+
+    .container_presentation{
+        display: flex;
+        flex-direction: column;
+    }
+
+    .box{
+        width: 150px;
+    }
  }
