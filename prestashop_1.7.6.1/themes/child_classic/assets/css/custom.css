@@ -3,19 +3,25 @@
  * A template should always ship with an empty custom.css
  */
 
- .container_presentation{
+ #header{
+     background-color: rgb(165, 158, 158);
+ }
+ 
+ .container_presentation{/*Dans la page présentation uniquement*/
      display: flex;
      flex-direction: row;
      justify-content: space-between;
      width: 100%;
  }
  
-  .box{
+  .box{ /*Concernant le contenu de la présentation, c'est pour l'alignement*/
       width: 255px;
-      margin: 30px;
+      margin: auto;
+      padding-top: 55px;
+      padding-bottom: 55px;
   }
 
- .page-subheading{
+ .page-subheading{ /*Les titres de la page présentation*/
      padding: 5px;
      margin: 15px;
      text-align: center;
@@ -23,49 +29,73 @@
      color: rgba(43, 32, 32, 0.945);
  }
 
- .underover{
+ .underover{ /*Les bordures aux titres dans la page présentation*/
      border-top: 1px solid black;
      border-bottom: 1px solid black;
      width: 25%;
      margin: auto;
  }
 
- p{
+ p{ /*Les textes dans la page présentation*/
      text-align: justify;
      color: black;
  }
 
- .container{
+ .container{ /*Le container principal se trouvant essentiellement dans les pages d'article pour que les blocks ne soient pas trop centrés*/
      display: flex;
      flex-wrap: wrap;
  }
 
- .header-nav{
+ .header-nav{ /*Ca c'est pour le haut, là où se trouve la rubrique "contactez-nous" et le panier*/
      width: 60%;
      margin: auto;
      text-align: center;
  }
 
- #_desktop_logo{
+ #_desktop_logo{ /*Le logo principal que je dois modifier*/
      margin-left: 500px;
  }
 
- #_desktop_top-menu{
+ #_desktop_top-menu{ /*La barre de navigation à l'accueil*/
      margin-bottom: 15px;
-     color: black;
  }
 
  .footer-container{
      flex-wrap: wrap;
      width: 100%;
+     background-color: black;
+     color: white;
  }
 
- .breadcrumb{
+ .h3{
+     color: white;  /*Les titres dans le footer mais allez savoir pourquoi ça ne concerne que les premiers*/
+ }
+
+ .h4{
+     color: white;
+ }
+
+ .text-uppercase{ /*le titre "mon compte personnel" dans le footer, mais il ne prend pas ce con!*/
+     color: white;
+ }
+
+ .breadcrumb{ /*Cela conerne les raccourcis dans les pages articles*/
      width: 60%;
      height: 50px;
  }
- #content-wrapper{
+
+ #content-wrapper{ /*Pour les pages contact et des articles*/
      width: 100%;
+ }
+
+ .carousel-inner{ /*Concerne les photos du carousel, le margin est pour le centrage*/
+     width: 50%;
+     height: 100px;
+     margin: auto;
+ }
+
+ #custom-text{ /*Pour le texte en dessous du carousel, à la page d'accueil*/
+     border: 10px solid rgb(53, 4, 4);
  }
 
  @media screen and (max-width: 399px){
@@ -85,5 +115,10 @@
 
     .box{
         width: 150px;
+    }
+
+    .gazelle{ /*C'est la photo de la facade dans la page présentation, je l'ai mis aux dimensions de la box*/
+        width: 150px;
+        height: 100px;
     }
  }
