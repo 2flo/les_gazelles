@@ -1,58 +1,89 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml">
-  <head>
-    <style type="text/css">
-      body {
-        font-family: MyriadPro-Regular,Myriad Pro Regular,MyriadPro,Myriad Pro,Helvetica,Arial,sans-serif;
-        color: #ffffff;
-      }
-
-      a {
-        color: #ffffff;
-      }
-
-      h1,h2,h3,h4,h5,h6 {
-        color: #ffffff;
-      }
-
-      h1 {
-        font-size: 32px;
-        font-weight: bold;
-        margin: 10px 0 8px;
-      }
-
-      h2 {
-        color: #555555;
-        font-size: 14px;
-        line-height: 20px;
-        width: 340px;
-        margin-bottom: 1em;
-      }
-
-      #main_container {
-        background: #B94A48;
-        padding: 20px 24px;
-        border-radius: 10px;
-      }
-    </style>
-  </head>
-  <body id="auth">
-    <div id="body_container">
-      <div id="main_container">
-        <h1>This network is misconfigured.</h1>
-        <div style="margin-top:10px;">
-          <p class="sp_name">
-            &lt;!-- SPLASH_GRANT_URL_START --&gt;
-            <a href="https://n146.network-auth.com/splash/grant?continue_url=http%253A%252F%252Fapi.prestashop.com%252Frss%252Fblog%252Fblog-fr.xml">Click here to continue</a>
-            &lt;!-- SPLASH_GRANT_URL_END --&gt;
-          </p>
-        </div>
-        <a href='#' style="font-size: x-small" id="details_link" onclick="document.getElementById('details').style.display = 'block'; a = document.getElementById('details_link'); a.parentNode.removeChild(a);">Details</a>
-        <div id="details" style="margin-top:10px; display:none;">
-          This network has been out of compliance since 2019-10-04 01:01 PDT<br />
-          This network will no longer provide network access on 2019-11-11 01:01 PST.
-        </div>
-      </div>
-    </div>
-  </body>
-</html>
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="https://www.prestashop.com/fr/blog/feed.xml" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:og="http://ogp.me/ns#" xmlns:article="http://ogp.me/ns/article#" xmlns:book="http://ogp.me/ns/book#" xmlns:profile="http://ogp.me/ns/profile#" xmlns:video="http://ogp.me/ns/video#" xmlns:product="http://ogp.me/ns/product#" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>Blog Feed</title>
+    <link>https://www.prestashop.com/fr/blog/feed.xml</link>
+    <description></description>
+    <language>fr</language>
+     <atom:link href="https://www.prestashop.com/fr/blog/feed.xml" rel="self" type="application/rss+xml" />
+      <item>
+    <title>Taux de rebond d’un site web : comment le limiter ?</title>
+    <link>https://www.prestashop.com/fr/blog/taux-rebond-comment-limiter</link>
+    <description>Le taux de rebond correspond au pourcentage de visiteurs qui ne visitent qu’une seule page lors de leur passage sur votre site.</description>
+     <pubDate>Wed, 06 Nov 2019 09:44:06 +0100</pubDate>
+ <dc:creator>YATEO</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/fr/blog/taux-rebond-comment-limiter</guid>
+  </item>
+  <item>
+    <title>Comment transformer vos avis négatifs en force pour votre réputation ?</title>
+    <link>https://www.prestashop.com/fr/blog/transformer-avis-negatifs-pour-votre-reputation</link>
+    <description>De plus en plus plébiscités, les avis clients sont devenus une source d’information fiable et rassurante pour les consommateurs, qui accordent une place grandissante à l’opinion de leurs pairs.</description>
+     <pubDate>Mon, 04 Nov 2019 15:38:59 +0100</pubDate>
+ <dc:creator>Ingrid Astier</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/fr/blog/transformer-avis-negatifs-pour-votre-reputation</guid>
+  </item>
+  <item>
+    <title>E-commerce : la liste des dix erreurs à éviter</title>
+    <link>https://www.prestashop.com/fr/blog/e-commerce-pain-points-a-eviter</link>
+    <description>Pour convertir un client et le fidéliser, votre site doit proposer un parcours sans faute.</description>
+     <pubDate>Wed, 30 Oct 2019 12:07:20 +0100</pubDate>
+ <dc:creator>L&#039;équipe PrestaShop</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/fr/blog/e-commerce-pain-points-a-eviter</guid>
+  </item>
+  <item>
+    <title>Redonner du sens à sa stratégie de contenu avec le “slow content”</title>
+    <link>https://www.prestashop.com/fr/blog/strategie-contenu-slow-content</link>
+    <description>Mettre en oeuvre une stratégie de contenu efficace sur la toile est un défi de taille mais pourtant indispensable.</description>
+     <pubDate>Thu, 24 Oct 2019 17:14:49 +0200</pubDate>
+ <dc:creator>YATEO</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/fr/blog/strategie-contenu-slow-content</guid>
+  </item>
+  <item>
+    <title>Le meilleur statut juridique pour lancer un site de e-commerce</title>
+    <link>https://www.prestashop.com/fr/blog/meilleur-statut-juridique-e-commerce</link>
+    <description>Vous avez un projet de boutique en ligne avec PrestaShop ? </description>
+     <pubDate>Wed, 23 Oct 2019 12:24:27 +0200</pubDate>
+ <dc:creator>guillaumerobez</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/fr/blog/meilleur-statut-juridique-e-commerce</guid>
+  </item>
+  <item>
+    <title>Construire une histoire de marque forte avec le storytelling</title>
+    <link>https://www.prestashop.com/fr/blog/construire-histoire-marque-forte-storytelling</link>
+    <description>Chaque marque a une histoire à raconter, à partager avec ses clients.</description>
+     <pubDate>Mon, 21 Oct 2019 14:42:59 +0200</pubDate>
+ <dc:creator>YATEO</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/fr/blog/construire-histoire-marque-forte-storytelling</guid>
+  </item>
+  <item>
+    <title>Transformer les visiteurs de votre site en utilisateurs de votre app mobile </title>
+    <link>https://www.prestashop.com/fr/blog/transformer-visiteurs-site-utilisateurs-app-mobile</link>
+    <description>On le sait, le smartphone occupe une place primordiale dans le quotidien des prospects, spécialement chez les mobinautes âgés de moins de 35 ans.</description>
+     <pubDate>Thu, 17 Oct 2019 19:31:37 +0200</pubDate>
+ <dc:creator>YATEO</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/fr/blog/transformer-visiteurs-site-utilisateurs-app-mobile</guid>
+  </item>
+  <item>
+    <title>Brexit : Quel impact pour votre e-commerce ?</title>
+    <link>https://www.prestashop.com/fr/blog/brexit-quest-ce-changer-commerce-dun-point-vue-juridique-fiscal</link>
+    <description>Après plusieurs mois de débat, le Brexit est finalement sur le point d’entrer en vigueur le 31 octobre 2019. De quoi s’agit-il précisément ?</description>
+     <pubDate>Wed, 16 Oct 2019 12:14:51 +0200</pubDate>
+ <dc:creator>rhina-matingu-fr</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/fr/blog/brexit-quest-ce-changer-commerce-dun-point-vue-juridique-fiscal</guid>
+  </item>
+  <item>
+    <title>Créer un calendrier social media</title>
+    <link>https://www.prestashop.com/fr/blog/calendrier-social-media</link>
+    <description>Désormais, les réseaux sociaux font partie intégrante de vos stratégies de communication, de contenu ou de tout autre type.</description>
+     <pubDate>Mon, 14 Oct 2019 13:20:06 +0200</pubDate>
+ <dc:creator>YATEO</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/fr/blog/calendrier-social-media</guid>
+  </item>
+  <item>
+    <title>Pourquoi le contenu viral est votre allié pour booster vos ventes ?</title>
+    <link>https://www.prestashop.com/fr/blog/contenu-viral-booster-ventes</link>
+    <description>Diversifier ses stratégies de communication pour accroître sa visibilité sur la toile tout en essayant de minimiser les coûts générés est une tâche complexe, à laquelle tout e-commerçant fait face.</description>
+     <pubDate>Fri, 11 Oct 2019 13:58:30 +0200</pubDate>
+ <dc:creator>YATEO</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/fr/blog/contenu-viral-booster-ventes</guid>
+  </item>
+  </channel>
+</rss>
