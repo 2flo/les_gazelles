@@ -21,6 +21,11 @@
       padding-bottom: 55px;
   }
 
+  .page-heading{
+      margin-top: 15px;
+      margin-bottom: 30px;
+  }
+
  .page-subheading{ /*Les titres de la page présentation*/
      padding: 5px;
      margin: 15px;
