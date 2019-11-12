@@ -7,4 +7,4 @@ assets:
   js:
     cart:
      -id: index
-     path: assets/js/index.js
+     path: assets/js/custom.js

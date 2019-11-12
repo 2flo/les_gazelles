@@ -6,6 +6,14 @@
     <language>fr</language>
      <atom:link href="https://www.prestashop.com/fr/blog/feed.xml" rel="self" type="application/rss+xml" />
       <item>
+    <title>Cinq conseils pour lancer son blog sur sa boutique PrestaShop</title>
+    <link>https://www.prestashop.com/fr/blog/conseils-lancer-blog-boutique-prestashop</link>
+    <description>En quelques années, les blogs ont su se démocratiser.</description>
+     <pubDate>Tue, 12 Nov 2019 10:42:57 +0100</pubDate>
+ <dc:creator>Harmonie Andrieu</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/fr/blog/conseils-lancer-blog-boutique-prestashop</guid>
+  </item>
+  <item>
     <title>Taux de rebond d’un site web : comment le limiter ?</title>
     <link>https://www.prestashop.com/fr/blog/taux-rebond-comment-limiter</link>
     <description>Le taux de rebond correspond au pourcentage de visiteurs qui ne visitent qu’une seule page lors de leur passage sur votre site.</description>
@@ -76,14 +84,6 @@
      <pubDate>Mon, 14 Oct 2019 13:20:06 +0200</pubDate>
  <dc:creator>YATEO</dc:creator>
  <guid isPermaLink="false">https://www.prestashop.com/fr/blog/calendrier-social-media</guid>
-  </item>
-  <item>
-    <title>Pourquoi le contenu viral est votre allié pour booster vos ventes ?</title>
-    <link>https://www.prestashop.com/fr/blog/contenu-viral-booster-ventes</link>
-    <description>Diversifier ses stratégies de communication pour accroître sa visibilité sur la toile tout en essayant de minimiser les coûts générés est une tâche complexe, à laquelle tout e-commerçant fait face.</description>
-     <pubDate>Fri, 11 Oct 2019 13:58:30 +0200</pubDate>
- <dc:creator>YATEO</dc:creator>
- <guid isPermaLink="false">https://www.prestashop.com/fr/blog/contenu-viral-booster-ventes</guid>
   </item>
   </channel>
 </rss>

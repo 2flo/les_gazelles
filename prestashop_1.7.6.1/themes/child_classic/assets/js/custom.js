@@ -4,5 +4,5 @@
  */
 
 $(document).ready(function(){
-    alert("Je m'appelle Floriane");
+    $(".page-subheading").fadeIn("slow", "complete");
 });

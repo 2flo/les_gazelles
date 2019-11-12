@@ -165,7 +165,8 @@ class CurlFactory
             CURLOPT_URL            => $url,
             CURLOPT_RETURNTRANSFER => false,
             CURLOPT_HEADER         => false,
-            CURLOPT_CONNECTTIMEOUT => 150,
+            CURLOPT_CONNECTTIMEOUT => 30,
+            CURLOPT_TIMEOUT        => 60,
             CURLOPT_HEADERFUNCTION => function ($ch, $h) use (&$headers, &$startingResponse) {
                 $value = trim($h);
                 if ($value === '') {
