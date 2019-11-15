@@ -108,6 +108,19 @@
      border: 10px solid rgb(53, 4, 4);
  }
 
+ .h2{ /*C'est les titres des nouveaux produits*/
+     color: black;
+     border: 5px solid black;
+ }
+
+ #top-menu{
+     background-color: white;
+ }
+
+ #cms-page-4{
+     color: black; 
+ }
+
  @media screen and (max-width: 399px){
 
     .header-top{
