@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.33, created on 2019-11-05 15:42:45
+/* Smarty version 3.1.33, created on 2019-11-19 15:38:17
   from 'module:pscustomtextpscustomtext.' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.33',
-  'unifunc' => 'content_5dc18a6540aee9_97497689',
+  'unifunc' => 'content_5dd3fe593d13a1_23201127',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -18,7 +18,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   ),
   'cache_lifetime' => 31536000,
 ),true)) {
-function content_5dc18a6540aee9_97497689 (Smarty_Internal_Template $_smarty_tpl) {
+function content_5dd3fe593d13a1_23201127 (Smarty_Internal_Template $_smarty_tpl) {
 ?>
 <div id="custom-text">
   <h2>Bienvenue sur le site des Gazelles de Lens</h2>

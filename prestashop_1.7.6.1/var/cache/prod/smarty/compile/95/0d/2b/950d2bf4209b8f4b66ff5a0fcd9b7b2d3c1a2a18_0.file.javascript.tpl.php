@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.33, created on 2019-11-04 15:23:10
+/* Smarty version 3.1.33, created on 2019-11-19 15:35:22
   from '/home/popschool/projects/www/les_gazelles/prestashop_1.7.6.1/themes/javascript.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.33',
-  'unifunc' => 'content_5dc0344e90e288_34212963',
+  'unifunc' => 'content_5dd3fdaab87fb6_40820748',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_5dc0344e90e288_34212963 (Smarty_Internal_Template $_smarty_tpl) {
+function content_5dd3fdaab87fb6_40820748 (Smarty_Internal_Template $_smarty_tpl) {
 if (isset($_smarty_tpl->tpl_vars['js_def']->value) && is_array($_smarty_tpl->tpl_vars['js_def']->value) && count($_smarty_tpl->tpl_vars['js_def']->value)) {
 echo '<script'; ?>
  type="text/javascript">

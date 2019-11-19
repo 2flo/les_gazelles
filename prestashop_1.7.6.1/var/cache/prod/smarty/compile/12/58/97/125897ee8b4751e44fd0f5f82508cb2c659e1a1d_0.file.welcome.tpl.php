@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.33, created on 2019-11-04 15:22:55
+/* Smarty version 3.1.33, created on 2019-11-19 15:35:22
   from '/home/popschool/projects/www/les_gazelles/prestashop_1.7.6.1/modules/welcome/views/contents/welcome.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.33',
-  'unifunc' => 'content_5dc0343f455478_75959083',
+  'unifunc' => 'content_5dd3fdaa54ca28_30998830',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_5dc0343f455478_75959083 (Smarty_Internal_Template $_smarty_tpl) {
+function content_5dd3fdaa54ca28_30998830 (Smarty_Internal_Template $_smarty_tpl) {
 ?>
 <div class="onboarding-welcome">
   <i class="material-icons onboarding-button-shut-down">close</i>

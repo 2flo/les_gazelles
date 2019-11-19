@@ -1,0 +1,17 @@
+1574182157
+s:3545:"HTTP/1.1 200 OK
+Server: nginx
+Date: Tue, 19 Nov 2019 14:49:17 GMT
+Content-Type: application/json; charset=utf-8
+Transfer-Encoding: chunked
+Vary: Accept-Encoding
+X-XSS-Protection: 1; mode=block;
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+Referrer-Policy: strict-origin-when-cross-origin
+X-Permitted-Cross-Domain-Policies: none
+Expect-CT: enforce, max-age=604800
+Feature-Policy: accelerometer 'self'; ambient-light-sensor 'self'; autoplay 'self'; camera 'self'; encrypted-media 'self'; fullscreen 'self'; geolocation 'self'; gyroscope 'self'; magnetometer 'self'; microphone 'self'; midi 'self'; payment 'self'; picture-in-picture *; speaker 'self'; sync-xhr *; usb 'self'; vr 'self';
+X-Backend-Server: vm2728.jn-hebergement.com
+
+{"modules":[{"id":"22323","name":"ps_socialfollow","displayName":"Social media follow links","categoryName":"Widgets r\u00e9seaux sociaux","description":"Facebook, Twitter, Instagram, Youtube, etc., faites savoir &agrave; vos clients sur quels r&eacute;seaux vous suivre et faites grandir votre communaut&eacute;","author":"PrestaShop","url":"https:\/\/addons.prestashop.com\/fr\/widgets-reseaux-sociaux\/22323-social-media-follow-links.html?utm_source=back-office&utm_medium=push-addons&utm_campaign=back-office-FR&utm_content=download","serviceUrl":"","img":"https:\/\/medias1.prestastore.com\/img\/pico\/22323.jpg","fullDescription":"Facebook, Twitter, Instagram, Youtube, etc., faites savoir &agrave; vos clients sur quels r&eacute;seaux vous suivre et faites grandir votre communaut&eacute;.","additionalDescription":"Servez-vous de ce module natif pour :\r\n<ul>\r\n\t<li><strong>Rassembler une communaut&eacute;<\/strong> : gardez un oeil sur vos clients pour les atteindre plus facilement et communiquer avec eux de multiple fa&ccedil;ons.<\/li>\r\n\t<li><strong>Elargir votre communication<\/strong> : vous pouvez cr&eacute;er des contenus sp&eacute;cifiques selon les canaux de communication sollicit&eacute;s, donc cibler vos clients en fonction du r&eacute;seau qu&rsquo;ils suivent.<\/li>\r\n<\/ul>\r\n","features":"Par d&eacute;faut, cela appara&icirc;t dans le footer mais cela peut &ecirc;tre rattach&eacute; &agrave; un autre hook (footer ou footer before) et ainsi &ecirc;tre affich&eacute; ailleurs sur votre front office.<br \/>\r\n<br \/>\r\nPour afficher sur votre boutique le logo des r&eacute;seaux sociaux sur lesquels vous &ecirc;tes pr&eacute;sents, vous avez seulement &agrave; renseigner l&rsquo;URL de vos pages.<br \/>\r\n<br \/>\r\nVous pouvez renseigner vos comptes Facebook, Twitter, YouTube, Google, Instagram, Pinterest et Vimeo ainsi que vos flux RSS.","customer_benefits":"","demo_video":"","version":"2.0.0","last_update":"2019-11-18 14:06:33","compatibility":{"from":"1.7.1.0","to":"1.7.6.2"},"price":{"EUR":0,"USD":0,"GBP":0},"badges":[{"label":"R\u00e9alis\u00e9 par PrestaShop","img":"https:\/\/medias2.prestastore.com\/themes\/prestastore\/img\/front\/sprites\/badges\/made-by-prestashop.png"}],"cover":{"small":"https:\/\/medias1.prestastore.com\/1271568-pprod\/social-media-follow-links.jpg","big":"https:\/\/medias1.prestastore.com\/1271568-pbig\/social-media-follow-links.jpg"},"pictures":{"small":["https:\/\/medias2.prestastore.com\/1271569-pprod\/social-media-follow-links.jpg","https:\/\/medias2.prestastore.com\/1271570-pprod\/social-media-follow-links.jpg"],"big":["https:\/\/medias2.prestastore.com\/1271569-pbig\/social-media-follow-links.jpg","https:\/\/medias2.prestastore.com\/1271570-pbig\/social-media-follow-links.jpg"]}}]}";

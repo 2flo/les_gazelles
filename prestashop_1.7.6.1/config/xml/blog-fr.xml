@@ -6,6 +6,31 @@
     <language>fr</language>
      <atom:link href="https://www.prestashop.com/fr/blog/feed.xml" rel="self" type="application/rss+xml" />
       <item>
+    <title>Il est urgent de mettre la data au service de votre commerce !</title>
+    <link>https://www.prestashop.com/fr/blog/piloter-son-site-prestashop-donnees-bi</link>
+    <description>En tant que Manager et e-commerçant, vous avez besoin de reporting pour garder le contrôle des performances de votre entreprise e</description>
+     <pubDate>Mon, 18 Nov 2019 15:48:52 +0100</pubDate>
+ <dc:creator>Hélène Clary</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/fr/blog/piloter-son-site-prestashop-donnees-bi</guid>
+  </item>
+  <item>
+    <title>Live chat e-commerce : sauver ses ventes et résoudre les problèmes de ses clients</title>
+    <link>https://www.prestashop.com/fr/blog/live-chat-e-commerce-sauver-vente-problemes-clients</link>
+    <description>Une grande partie de votre e-business dépend de la qualité de votre service client.</description>
+     <pubDate>Fri, 15 Nov 2019 13:40:31 +0100</pubDate>
+ <dc:creator>YATEO</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/fr/blog/live-chat-e-commerce-sauver-vente-problemes-clients</guid>
+  </item>
+  <item>
+    <title>E-commerce : tout savoir à propos des flux de produits</title>
+    <link>https://www.prestashop.com/fr/blog/e-commerce-tout-savoir-flux-produits</link>
+    <description>Définition d’un flux de produits
+Un flux de produits est en réalité un ensemble de lignes de code informatique qui se déclinent dans des formats différents. Il peut s’agir :</description>
+     <pubDate>Wed, 13 Nov 2019 12:06:07 +0100</pubDate>
+ <dc:creator>Maxime Varinard</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/fr/blog/e-commerce-tout-savoir-flux-produits</guid>
+  </item>
+  <item>
     <title>Cinq conseils pour lancer son blog sur sa boutique PrestaShop</title>
     <link>https://www.prestashop.com/fr/blog/conseils-lancer-blog-boutique-prestashop</link>
     <description>En quelques années, les blogs ont su se démocratiser.</description>
@@ -60,30 +85,6 @@
      <pubDate>Mon, 21 Oct 2019 14:42:59 +0200</pubDate>
  <dc:creator>YATEO</dc:creator>
  <guid isPermaLink="false">https://www.prestashop.com/fr/blog/construire-histoire-marque-forte-storytelling</guid>
-  </item>
-  <item>
-    <title>Transformer les visiteurs de votre site en utilisateurs de votre app mobile </title>
-    <link>https://www.prestashop.com/fr/blog/transformer-visiteurs-site-utilisateurs-app-mobile</link>
-    <description>On le sait, le smartphone occupe une place primordiale dans le quotidien des prospects, spécialement chez les mobinautes âgés de moins de 35 ans.</description>
-     <pubDate>Thu, 17 Oct 2019 19:31:37 +0200</pubDate>
- <dc:creator>YATEO</dc:creator>
- <guid isPermaLink="false">https://www.prestashop.com/fr/blog/transformer-visiteurs-site-utilisateurs-app-mobile</guid>
-  </item>
-  <item>
-    <title>Brexit : Quel impact pour votre e-commerce ?</title>
-    <link>https://www.prestashop.com/fr/blog/brexit-quest-ce-changer-commerce-dun-point-vue-juridique-fiscal</link>
-    <description>Après plusieurs mois de débat, le Brexit est finalement sur le point d’entrer en vigueur le 31 octobre 2019. De quoi s’agit-il précisément ?</description>
-     <pubDate>Wed, 16 Oct 2019 12:14:51 +0200</pubDate>
- <dc:creator>rhina-matingu-fr</dc:creator>
- <guid isPermaLink="false">https://www.prestashop.com/fr/blog/brexit-quest-ce-changer-commerce-dun-point-vue-juridique-fiscal</guid>
-  </item>
-  <item>
-    <title>Créer un calendrier social media</title>
-    <link>https://www.prestashop.com/fr/blog/calendrier-social-media</link>
-    <description>Désormais, les réseaux sociaux font partie intégrante de vos stratégies de communication, de contenu ou de tout autre type.</description>
-     <pubDate>Mon, 14 Oct 2019 13:20:06 +0200</pubDate>
- <dc:creator>YATEO</dc:creator>
- <guid isPermaLink="false">https://www.prestashop.com/fr/blog/calendrier-social-media</guid>
   </item>
   </channel>
 </rss>

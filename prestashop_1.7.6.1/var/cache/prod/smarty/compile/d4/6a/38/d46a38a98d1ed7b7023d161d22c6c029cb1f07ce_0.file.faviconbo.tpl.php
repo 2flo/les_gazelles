@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.33, created on 2019-11-04 15:22:55
+/* Smarty version 3.1.33, created on 2019-11-19 15:35:22
   from '/home/popschool/projects/www/les_gazelles/prestashop_1.7.6.1/modules/ps_faviconnotificationbo/views/templates/hook/faviconbo.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.33',
-  'unifunc' => 'content_5dc0343f43afc8_08304924',
+  'unifunc' => 'content_5dd3fdaa1a0a88_62462557',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_5dc0343f43afc8_08304924 (Smarty_Internal_Template $_smarty_tpl) {
+function content_5dd3fdaa1a0a88_62462557 (Smarty_Internal_Template $_smarty_tpl) {
 echo '<script'; ?>
  type="text/javascript">
 /*

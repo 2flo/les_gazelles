@@ -1202,6 +1202,7 @@ class FrontContainer extends Container
                 58 => 'ps_checkout',
                 59 => 'blockreassurance',
                 60 => 'ps_facetedsearch',
+                61 => 'ps_newproducts',
             ],
             'ps_cache_dir' => '/home/popschool/projects/www/les_gazelles/prestashop_1.7.6.1/var/cache/prod/',
             'mail_themes_uri' => '/mails/themes',
