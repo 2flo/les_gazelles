@@ -4,7 +4,7 @@
  */
 
  #header{
-     background-color: rgb(165, 158, 158);
+     border-bottom: 3px solid black;
  }
  
  .container_presentation{/*Dans la page présentation uniquement*/
@@ -121,6 +121,10 @@
      color: black; 
  }
 
+ .col-md-9{/*Le textarea du formulaire, il était trop grand à la base alors je l'ai rétréci*/
+     width: 50%;
+ }
+
  @media screen and (max-width: 399px){
 
     .header-top{
@@ -143,5 +147,9 @@
     .gazelle{ /*C'est la photo de la facade dans la page présentation, je l'ai mis aux dimensions de la box*/
         width: 150px;
         height: 100px;
+    }
+
+    .col-md-9{
+        width: 100%;
     }
  }
