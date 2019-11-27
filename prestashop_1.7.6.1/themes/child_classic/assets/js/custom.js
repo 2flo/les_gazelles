@@ -7,5 +7,6 @@ $(document).ready(function(){ //Toujours commencer par cibler le document et à 
     let fade = $(".page-subheading"); //Les titres h3 de la page présentation vont s'afficher sur un fondu au démarrage//
     fade.fadeIn(3000);
 
-    $("a:has('.dropdown-item')").hover().css({backgroundColor: "6e3303"});
+    let para = $("p"); //Ce sont les textes de la page de présentation: je voulais qu'ils apparaissent en fondu//
+    para.css({"visibility":"visible"}).fadeIn(3000);
 })

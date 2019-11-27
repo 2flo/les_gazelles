@@ -8,3 +8,4 @@ assets:
     cart:
      -id: index
      path: assets/js/custom.js
+     src: ../themes/core.js.map 
