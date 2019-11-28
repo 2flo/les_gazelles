@@ -8,5 +8,5 @@ $(document).ready(function(){ //Toujours commencer par cibler le document et à 
     fade.fadeIn(3000);
 
     let para = $("p"); //Ce sont les textes de la page de présentation: je voulais qu'ils apparaissent en fondu//
-    para.css({"visibility":"visible"}).fadeIn(3000);
+    para.fadeIn(6000);
 })

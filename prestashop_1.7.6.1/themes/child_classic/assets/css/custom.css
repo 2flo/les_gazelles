@@ -49,7 +49,7 @@
  p{ /*Les textes dans la page présentation*/
      text-align: justify;
      color: black;
-     visibility: hidden;
+     display: none;
  }
 
  .container{ /*Le container principal se trouvant essentiellement dans les pages d'article pour que les blocks ne soient pas trop centrés*/

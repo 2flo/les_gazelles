@@ -6,6 +6,14 @@
     <language>fr</language>
      <atom:link href="https://www.prestashop.com/fr/blog/feed.xml" rel="self" type="application/rss+xml" />
       <item>
+    <title>Trois conseils pour mettre en place une stratégie de contenu efficace</title>
+    <link>https://www.prestashop.com/fr/blog/trois-conseils-strategie-contenu-efficace</link>
+    <description>Qu’il s’agisse de travailler son image de marque, le positionnement d’un site dans les résultats de recherche de Google, ou encore de prouver son expertise, ne pas élaborer une stratégie de contenu</description>
+     <pubDate>Wed, 27 Nov 2019 14:30:31 +0100</pubDate>
+ <dc:creator>Johan Letrouit</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/fr/blog/trois-conseils-strategie-contenu-efficace</guid>
+  </item>
+  <item>
     <title>Black Friday : les chiffres clés</title>
     <link>https://www.prestashop.com/fr/blog/chifres-2019-black-friday</link>
     <description>Depuis 2013, le Black Friday s&#039;est imposé en France et marque le début d’une période d’achats importante avec Noël, les </description>
@@ -77,14 +85,6 @@ Un flux de produits est en réalité un ensemble de lignes de code informatique 
      <pubDate>Mon, 04 Nov 2019 15:38:59 +0100</pubDate>
  <dc:creator>Ingrid Astier</dc:creator>
  <guid isPermaLink="false">https://www.prestashop.com/fr/blog/transformer-avis-negatifs-pour-votre-reputation</guid>
-  </item>
-  <item>
-    <title>E-commerce : la liste des dix erreurs à éviter</title>
-    <link>https://www.prestashop.com/fr/blog/e-commerce-pain-points-a-eviter</link>
-    <description>Pour convertir un client et le fidéliser, votre site doit proposer un parcours sans faute.</description>
-     <pubDate>Wed, 30 Oct 2019 12:07:20 +0100</pubDate>
- <dc:creator>L&#039;équipe PrestaShop</dc:creator>
- <guid isPermaLink="false">https://www.prestashop.com/fr/blog/e-commerce-pain-points-a-eviter</guid>
   </item>
   </channel>
 </rss>
